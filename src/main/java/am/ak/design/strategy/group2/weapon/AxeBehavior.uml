@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>am.ak.design.strategy.group2.weapon.AxeBehavior</OriginalElement>
+  <nodes>
+    <node x="0.0" y="82.0">am.ak.design.strategy.group2.weapon.AxeBehavior</node>
+    <node x="376.0" y="82.0">am.ak.design.strategy.group2.weapon.KnifeBehavior</node>
+    <node x="272.0" y="0.0">am.ak.design.strategy.group2.weapon.WeaponBehavior</node>
+    <node x="178.0" y="82.0">am.ak.design.strategy.group2.weapon.SwordBehavior</node>
+    <node x="574.0" y="82.0">am.ak.design.strategy.group2.weapon.BowAndArrowBehavior</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="am.ak.design.strategy.group2.weapon.AxeBehavior" target="am.ak.design.strategy.group2.weapon.WeaponBehavior">
+      <point x="0.0" y="-16.0" />
+      <point x="79.0" y="52.0" />
+      <point x="295.5" y="52.0" />
+      <point x="-70.5" y="16.0" />
+    </edge>
+    <edge source="am.ak.design.strategy.group2.weapon.KnifeBehavior" target="am.ak.design.strategy.group2.weapon.WeaponBehavior">
+      <point x="0.0" y="-16.0" />
+      <point x="465.0" y="62.0" />
+      <point x="389.5" y="62.0" />
+      <point x="23.5" y="16.0" />
+    </edge>
+    <edge source="am.ak.design.strategy.group2.weapon.BowAndArrowBehavior" target="am.ak.design.strategy.group2.weapon.WeaponBehavior">
+      <point x="0.0" y="-16.0" />
+      <point x="693.0" y="52.0" />
+      <point x="436.5" y="52.0" />
+      <point x="70.5" y="16.0" />
+    </edge>
+    <edge source="am.ak.design.strategy.group2.weapon.SwordBehavior" target="am.ak.design.strategy.group2.weapon.WeaponBehavior">
+      <point x="0.0" y="-16.0" />
+      <point x="267.0" y="62.0" />
+      <point x="342.5" y="62.0" />
+      <point x="-23.5" y="16.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1" x="406.0" y="57.0" />
+  <SelectedNodes>
+    <node>am.ak.design.strategy.group2.weapon.AxeBehavior</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
